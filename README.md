@@ -30,22 +30,9 @@ consistently expand professional and personal skills, including the technical an
 <br>
 
 ## Technical Skills
-- Languages
-  - DAX
-  - Python
-  - SQL
-- Platforms
-  - Azure
-    - ADLS
-    - Data Factory
-    - SQL Database
-    - Synapse Analytics
-  - GitHub
-  - Jupyter
-  - Postman
-  - Power BI
-  - Snowflake
-  - SQL Server
+- Languages: DAX, Python, SQL
+- Platforms: Azure, ADLS, Data Factory, Snowflake, SQL Database, SQL Server, Synapse Analytics
+- Additional Tools: GitHub, Jupyter, Postman, Power BI
 
 <br>
 
