@@ -29,5 +29,25 @@ consistently expand professional and personal skills, including the technical an
 
 <br>
 
+## Technical Skills
+- Languages
+  - DAX
+  - Python
+  - SQL
+- Platforms
+  - Azure
+    - ADLS
+    - Data Factory
+    - SQL Database
+    - Synapse Analytics
+  - GitHub
+  - Jupyter
+  - Postman
+  - Power BI
+  - Snowflake
+  - SQL Server
+
+<br>
+
 ## Currently Working On
 [Data Engineering and Analytics Project](https://github.com/nareyes/basecamp_ltv)
