@@ -37,4 +37,4 @@ consistently expand professional and personal skills, including the technical an
 <br>
 
 ## Currently Working On
-[Data Engineering and Analytics Project](https://github.com/nareyes/basecamp_ltv)
+[Data Engineering and Analytics Project: Customer Lifetime Value](https://github.com/nareyes/basecamp_ltv)
