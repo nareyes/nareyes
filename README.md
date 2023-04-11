@@ -37,4 +37,5 @@ consistently expand professional and personal skills, including the technical an
 <br>
 
 ## Currently Working On
-[Data Engineering and Analytics Project: Customer Lifetime Value](https://github.com/nareyes/customer_ltv)
+[Data Engineering Project: Customer Data Platform](https://github.com/nareyes/project-cdp)
+[Data Engineering and Analytics Project: Customer Lifetime Value](https://github.com/nareyes/project-ltv)
