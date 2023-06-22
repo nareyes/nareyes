@@ -31,7 +31,7 @@ consistently expand professional and personal skills, including the technical an
 
 ## Technical Skills
 - Languages: DAX, Python, SQL
-- Platforms: Azure, ADLS, Data Factory, SQL Database, SQL Server, Synapse Analytics, Snowflake, Segment (CDP)
+- Platforms: Azure, ADLS, Data Factory, SQL Database, SQL Server, Synapse Analytics, Databricks, Snowflake, Segment (CDP)
 - Additional Tools: GitHub, Docker, Jupyter, Postman, Power BI
 
 <br>
