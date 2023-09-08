@@ -16,16 +16,16 @@ consistently expand professional and personal skills, including the technical an
 <br>
 
 ## Professional Interest
-- Business Intelligence
 - Data Engineering
+- Business Intelligence
 - Data Science
 
 <br>
 
 ## Personal Interest
 - Learning
-- Reading Sci-Fi/Fantasy
-- Listening/Playing Music
+- Reading Sci-Fi & Fantasy
+- Listening & Playing Music
 
 <br>
 
@@ -37,5 +37,4 @@ consistently expand professional and personal skills, including the technical an
 <br>
 
 ## Currently Working On
-- [Data Engineering Project: Customer Data Platform](https://github.com/nareyes/project-cdp)
-- [Data Engineering and Analytics Project: Customer Lifetime Value](https://github.com/nareyes/project-ltv)
+TBD
